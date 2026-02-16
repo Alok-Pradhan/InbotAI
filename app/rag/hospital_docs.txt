@@ -1,0 +1,16 @@
+BIMS Hospital Information:
+
+Dr. Sharma - Cardiologist
+Available:
+Monday: 10AM-1PM
+Wednesday: 2PM-5PM
+
+Dr. Meena - Dermatologist
+Available:
+Tuesday: 11AM-3PM
+Friday: 1PM-4PM
+
+Hospital Policy:
+- Appointments must be booked 24 hours in advance.
+- Reports can only be accessed by registered patients.
+- Emergency services are available 24/7.

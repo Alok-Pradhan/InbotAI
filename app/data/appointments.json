@@ -1,0 +1,23 @@
+[
+    {
+        "id": "1d467001-71dd-4456-9dd3-37453053458c",
+        "patient_id": "Alok",
+        "doctor": "alok@gmail.com",
+        "slot": "12pm",
+        "status": "Booked"
+    },
+    {
+        "id": "1ac133ea-b37d-4ab4-93ba-81eeb2ee5420",
+        "patient_id": "196a4e69-2af0-4149-bde9-001a1cc3f622",
+        "doctor": "Dr Sharma",
+        "slot": "Requested Slot",
+        "status": "Booked"
+    },
+    {
+        "id": "fe2e053c-8bf7-4fce-a770-9c7f83eaf93a",
+        "patient_id": "Alok",
+        "doctor": "Dr Sharma",
+        "slot": "monday 10am",
+        "status": "Booked"
+    }
+]

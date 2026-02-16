@@ -1,0 +1,9 @@
+[
+    {
+        "id": "196a4e69-2af0-4149-bde9-001a1cc3f622",
+        "name": "Alok",
+        "email": "alok@gmail.com",
+        "reports": ["Blood Test", "X-Ray"],
+        "medicines": []
+    }
+]
