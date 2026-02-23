@@ -1,16 +1,106 @@
-BIMS Hospital Information:
+BIMS Hospital – Complete Information Guide
 
-Dr. Sharma - Cardiologist
+About Hospital:
+BIMS Hospital is a multi-speciality healthcare center providing advanced medical treatment, emergency services, diagnostics, and surgical care. The hospital operates 24/7 and is equipped with modern infrastructure and trained medical professionals.
+
+Hospital Locations:
+1. BIMS Main Branch – MG Road, Hyderabad, Telangana – 500001
+2. BIMS North Branch – Secunderabad, Telangana – 500003
+3. BIMS South Branch – Gachibowli, Hyderabad – 500032
+
+Emergency & Ambulance Services:
+- 24/7 Emergency Available
+- Ambulance Contact Number: +91-9876543210
+- Emergency Helpline: 108
+- ICU Ambulance with ventilator support available
+
+Hospital Capacity:
+- Total Beds: 250
+- ICU Beds: 40
+- General Ward Beds: 120
+- Private Rooms: 60
+- Operation Theatres: 8
+- Emergency Trauma Beds: 15
+
+Departments Available:
+- Cardiology
+- Dermatology
+- Orthopedics
+- Neurology
+- Pediatrics
+- General Medicine
+- Gynecology
+- Radiology
+- Pathology
+
+Doctor Information:
+
+Dr. Sharma – Senior Cardiologist
+Experience: 15+ years
+Specialization: Heart diseases, Angioplasty, Hypertension
 Available:
-Monday: 10AM-1PM
-Wednesday: 2PM-5PM
+- Monday: 10AM–1PM
+- Wednesday: 2PM–5PM
 
-Dr. Meena - Dermatologist
+Dr. Meena – Dermatologist
+Experience: 10+ years
+Specialization: Skin allergies, Acne treatment, Hair fall treatment
 Available:
-Tuesday: 11AM-3PM
-Friday: 1PM-4PM
+- Tuesday: 11AM–3PM
+- Friday: 1PM–4PM
 
-Hospital Policy:
+Consultation Charges:
+- General Consultation: ₹500
+- Specialist Consultation: ₹800
+- Emergency Consultation: ₹1200
+
+Diagnostic & Report Pricing:
+- Blood Test (Basic): ₹300
+- Full Body Checkup: ₹2500
+- ECG: ₹400
+- MRI Scan: ₹6000
+- CT Scan: ₹4500
+- X-Ray: ₹500
+
+Report Collection:
+- Reports are available within 24–48 hours.
+- Patients can collect reports physically or request digital copies.
+- Online report access requires patient ID verification.
+
+Pharmacy Services:
+- In-house pharmacy available 24/7.
+- Discount available for senior citizens (10%).
+- All major health insurance accepted.
+
+Insurance & Payment:
+- Cashless facility available.
+- Accepted Insurance Providers: Star Health, HDFC Ergo, ICICI Lombard, LIC Health.
+- UPI, Credit/Debit Cards, Net Banking accepted.
+
+Ambulance Booking:
+Patients can request ambulance service by calling +91-9876543210.
+Estimated arrival time: 15–25 minutes within city limits.
+
+Hospital Policies:
 - Appointments must be booked 24 hours in advance.
 - Reports can only be accessed by registered patients.
 - Emergency services are available 24/7.
+- Visitors allowed between 4PM–7PM only.
+- Maximum 2 attendants allowed per patient.
+- Masks are mandatory inside ICU and operation theatres.
+
+General FAQs:
+Q: Does BIMS provide 24/7 service?
+A: Yes, emergency and ICU services are available 24/7.
+
+Q: How many beds are available?
+A: Total 250 beds including ICU and private rooms.
+
+Q: Is ambulance available at night?
+A: Yes, ambulance service is available 24/7.
+
+Q: Can I book appointment online?
+A: Yes, patients can book through hospital chatbot or reception desk.
+
+Q: How to cancel appointment?
+A: Appointment must be cancelled at least 12 hours before scheduled time.

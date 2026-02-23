@@ -15,6 +15,27 @@ class DoctorService:
                 "tuesday 11am",
                 "friday 1pm"
             ]
+        },
+        "dr timophy": {
+            "name": "Dr Temophy",
+            "slots": [
+                "tuesday 11am",
+                "friday 1pm"
+            ]
+        },
+        "dr roman": {
+            "name": "Dr Romam",
+            "slots": [
+                "tuesday 11am",
+                "friday 1pm"
+            ]
+        },
+        "dr preety": {
+            "name": "Dr Preety",
+            "slots": [
+                "tuesday 11am",
+                "friday 1pm"
+            ]
         }
     }
 
