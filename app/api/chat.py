@@ -44,7 +44,7 @@ def chat(request: ChatRequest):
     # ===============================
     # 2️⃣ SMART BOOKING LOGIC
     # ===============================
-    if "book" in message and request.patient_id:
+    if "book" in message:
 
         # Detect doctor
         if "sharma" in message:
@@ -62,6 +62,11 @@ def chat(request: ChatRequest):
             "tuesday 11am",
             "friday 1pm"
         ]
+
+        patient = PatientService.get_patient(request.patient_id)
+
+        if not patient:
+            return {"response": "Patient not found."}
 
         slot = None
         for ps in possible_slots:
